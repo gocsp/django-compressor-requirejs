@@ -22,5 +22,5 @@ setup(
         'Programming Language :: Python :: 3.4',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    install_requires=['Django>=1.6', 'django_compressor>=1.4'],
+    install_requires=['Django>=1.4', 'django_compressor>=1.4'],
 )
